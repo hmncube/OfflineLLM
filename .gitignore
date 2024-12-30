@@ -1,0 +1,59 @@
+gitignore
+# Built application files
+*.apk
+*.apks
+*.aab
+
+# Android Studio and Gradle files
+.gradle/
+build/
+.idea/
+*.iml
+local.properties
+gradlew
+gradlew.bat
+.cxx/
+.externalNativeBuild/
+
+# Generated files
+bin/
+gen/
+out/
+
+# Java and Kotlin compiled files
+*.class
+*.jar
+*.dex
+
+# Android specific files
+*.keystore
+*.jks
+/captures/
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IntelliJ IDEA files
+*.iws
+*.ipr
+
+# Navigation Safe Args files
+*.navigation
+
+# Kotlin build files
+*.kotlin_module
+
+# Files for code analysis
+.dart_tool/
+.analysis_options
+analysis_options.yaml
+
+# Other
+*.orig
+*.swp
+*.swo
+*.bak
